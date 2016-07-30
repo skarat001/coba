@@ -1,0 +1,6 @@
+encoding: iso-8859-15
+Artist: Akiko Kobayashi
+Title: Koi Ni Ochite
+
+Limit exceeded
+ID: likzwuss
